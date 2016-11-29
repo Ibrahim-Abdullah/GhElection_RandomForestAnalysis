@@ -10,30 +10,28 @@ Title: The CPP Manifesto
 Author: Edmund Nminyem Delle 
 
 
-FOREWORD 								5
+FOREWORD 								 V
 
-I. INTRODUCTION 							6
+I. INTRODUCTION 							VI
 
-II. OUR VISION FOR GHANA 						7
+II. OUR VISION FOR GHANA 					       VII
 
-III. NKRUMAISM IS THE ANSWER						7
-
-
+III. NKRUMAISM IS THE ANSWER					       VII
 CONTENTS
 
-A. SOCIAL POLICIES 							9
+A. SOCIAL POLICIES 							IX
 
 
-CHAPTER		
-1.1 Education Policy 							9
+CHAPTER								      PAGE
+I. 	Education Policy 						 9
 
-1.1.1 Tertiary Institutions 						10
+II.	Tertiary Institutions 						10
 
-1.2 Science and Technology Policy 					11
+III	Science and Technology Policy 					11
 
-1.3 Health Policy 							12
+IV	Health Policy 							12
 
-1.4 Human Resource Development, Employment and Labour Policies 		13
+V	Human Resource Development, Employment and Labour Policies 	13
 
 1.4.1 Labour Quality Improvement 					14
 
