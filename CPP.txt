@@ -2316,7 +2316,7 @@ pharmaceutical grade starch.
 
 
 
-CHAPTER XXVIII
+CHAPTER XXX
 
 Rural Transformation
 
@@ -2352,7 +2352,7 @@ and lead to balanced development of the country.
 
 
 
-CHAPTER XXIX
+CHAPTER XXXI
 
 Industrial Policies
 
@@ -2455,7 +2455,7 @@ with EU.
 
 
 
-CHAPTER XXX
+CHAPTER XXXII
 
 Private Sector Development and Partnership:
 
@@ -2563,7 +2563,7 @@ sector.
 
 
 
-CHAPTER XXXI
+CHAPTER XXXIII
 
 Mining and Quarrying Policy
 
@@ -2633,7 +2633,7 @@ age in schools.
 
 
 
-CHAPTER XXXII
+CHAPTER XXXIV
 
 Manufacturing Policy
 
@@ -2668,7 +2668,7 @@ rate for the manufacturing sector in order
 to make service reliable so as not to disrupt 
 manufacturing activity.
 
-CHAPTER XXXIII
+CHAPTER XXXV
 
 
 
@@ -2865,7 +2865,7 @@ and distribute.
 
 
 
-CHAPTER XXXIV
+CHAPTER XXXVI
 
 Construction Policy
 
@@ -2934,7 +2934,7 @@ secretariat.
 
 
 
-CHAPTER XXXV
+CHAPTER XXXVII
 
 Service Sector Policies
 
@@ -3002,7 +3002,7 @@ sector is reserved for Ghanaians as stated
 in our laws.
 
 
-CHAPTER XXXVI
+CHAPTER XXXVIII
 
 Environment and Natural Resources
 
@@ -3021,7 +3021,7 @@ we shall do the following, among others:
 
 
 
-CHAPTER XXXVII
+CHAPTER XXXIX
 
 Natural Environment
 
@@ -3051,7 +3051,7 @@ tree planting.
 
 
 
-CHAPTER XXXVIII
+CHAPTER LX
 
 The Built Environment
 
@@ -3090,7 +3090,7 @@ funding for its secretariat.
 
 
 
-CHAPTER XXXIX
+CHAPTER XLI
 
 Natural Resources
 
@@ -3129,7 +3129,7 @@ country.
 
 
 
-CHAPTER XL
+CHAPTER XLII
 
 Financing Development
 
@@ -3191,8 +3191,7 @@ and inconvenience of compliance to
 
 
 
-CHAPTER XLI
-
+CHAPTER XLIII
 
 
 Beyond Good Governance
@@ -3205,7 +3204,7 @@ respond to the needs of the people.
 
 
 
-CHAPTER XLII
+CHAPTER XLIV
 
 Fighting Corruption
 
@@ -3325,7 +3324,7 @@ National anti-corruption action plan
 
 
 
-CHAPTER XLIII
+CHAPTER XLV
 
 Devolution of Power and Increasing Social Accountability
 
@@ -3376,7 +3375,7 @@ take part in governance.
 
 
 
-CHAPTER XLIV
+CHAPTER XLVI
 
 The Constitution Review Process
 
@@ -3431,7 +3430,7 @@ year.
 
 
 
-CHAPTER XLV
+CHAPTER XLVII
 
 Legislative Agenda
 
@@ -3474,7 +3473,7 @@ the quality of governance.
 
 
 
-CHAPTER XLVI
+CHAPTER XLVIII
 
 Referenda
 
@@ -3518,7 +3517,7 @@ influence over the legislature.
 
 
 
-CHAPTER XLVII
+CHAPTER XLIX
 
 Role of Traditional Leaders
 
@@ -3539,7 +3538,7 @@ socio-economic development.
 
 
 
-CHAPTER XLVIII
+CHAPTER L
 
 Public Sector Reforms and Innovation
 
@@ -3584,7 +3583,7 @@ through stronger supervision.
 
 
 
-CHAPTER XLIX
+CHAPTER LI
 
 National Security
 
@@ -3680,7 +3679,7 @@ with the ECOWAS and the AU.
 
 
 
-CHAPTER L
+CHAPTER LII
 
 Judicial Reforms
 
@@ -3714,7 +3713,7 @@ G. Promote education among the population on the rights and responsibilities of 
 
 
 
-CHAPTER LI
+CHAPTER LIII
 
 Ghana and Globalisation
 
@@ -3730,7 +3729,7 @@ This we will do through the following:
 
 
 
-CHAPTER LII
+CHAPTER LIV
 
 Ghanaian Diaspora and Political Participation
 
@@ -3759,7 +3758,7 @@ same time contribute to the development of the land of their birth.
 
 
 
-CHAPTER LIII
+CHAPTER LV
 
 International Professionals Forum of Ghana 
 
@@ -3780,7 +3779,7 @@ and management agenda.
 
 
 
-CHAPTER LIV
+CHAPTER LVI
 
 Relations with African Countries
 
@@ -3823,7 +3822,7 @@ institutions leaves us vulnerable to political manipulation from abroad.
 
 
 
-CHAPTER LV 
+CHAPTER LVII 
 
 Relations with non-Ghanaian Diaspora
 
@@ -3835,7 +3834,7 @@ wide variety of areas, ranging from science and technology to
 literature to commerce and sports.
 
 
-CHAPTER LVI
+CHAPTER LVIII
 
 
 
@@ -3863,7 +3862,7 @@ Africa's socioeconomic development.
 
 
 
-CHAPTER LVII
+CHAPTER LIX
 
 Relations with Rest of the World
 
