@@ -39,27 +39,27 @@ VII	Benchmarking Productivity and Productivity Revolution: 		14
 
 VIII	Housing Policy 							14
 
-IX	Cultural Policy 							15
+IX	Cultural Policy 						15
 
 X	Sports Policy							15
 
-XI	Media and Society 							16
+XI	Media and Society 						16
 
-XII	Combating Violent Crime 						16
+XII	Combating Violent Crime 					16
 
-XIII	Confronting the Narcotics Menace 					17
+XIII	Confronting the Narcotics Menace 				17
 
 XIV	Empowering Women		 				17
 
-XV	Protecting our Children 						18
+XV	Protecting our Children 					18
 
 XVI	Caring for the Aged 						19
 
-XVII	Persons with Disability 						19
+XVII	Persons with Disability 					19
 
 XVIII	Developing our Youth						20
 
-XIX	Bridging the North-South Divide 					20
+XIX	Bridging the North-South Divide 				20
 
 
 B. ECONOMIC POLICIES 							21
@@ -78,11 +78,11 @@ XXV	Agricultural and Rural Transformation Policies 			25
 
 XXVI	Food, Fisheries and Livestock Sub-Sectors 			25
 
-XXVII	Cocoa Sub-Sector 							26
+XXVII	Cocoa Sub-Sector 						26
 
 XXVIII	Forestry and Tree Crops Sub-Sectors: 				26
 
-XXIX	Agro-processing 							27
+XXIX	Agro-processing 						27
 
 XXX	Rural Transformation 						27
 
@@ -103,9 +103,9 @@ XXXV	Energy Policy 							30
 
 XXXVI	Construction Policy 						31
 
-XXXVII	Service Sector Policies 						32
+XXXVII	Service Sector Policies 					32
 
-XXXVIII	Environment and Natural Resources 					33
+XXXVIII	Environment and Natural Resources 				33
 
 XXXIX	Natural Environment 						33
 
@@ -123,39 +123,39 @@ XLIII	Beyond Good Governance 						35
 
 XLIV	Fighting Corruption 						35
 
-XLV	Devolution of Power and Increasing Social Accountability 		36
+XLV	Devolution of Power and Increasing Social Accountability 	36
 
-XLVI	The Constitution Review Process 					36
+XLVI	The Constitution Review Process 				36
 
-XLVII	Legislative Agenda 							37
+XLVII	Legislative Agenda 						37
 
-XLVIII	Referenda 								37
+XLVIII	Referenda 							37
 
 XLIX	Role of Traditional Leaders 					37
 
 L	Public Sector Reforms and Innovation 				38
 
-LI	National Security 							38
+LI	National Security 						38
 
-LII	Judicial Reforms 							39
+LII	Judicial Reforms 						39
 
 
 
 D. INTERNATIONAL RELATIONS 						41
 
-LIII	Ghana and Globalisation 						41
+LIII	Ghana and Globalisation 					41
 
 LIV	Ghanaian Diaspora and Political Participation 			41
 
-LV	International Professionals Forum of Ghana 				41
+LV	International Professionals Forum of Ghana 			41
 
-LVI	Relations with African Countries 					42
+LVI	Relations with African Countries 				42
 
 LVII	Relations with non-Ghanaian Diaspora 				42
 
 LVIII	Relations with Donors 						42
 
-LIX	Relations with Rest of the World 					42
+LIX	Relations with Rest of the World 				42
 
 
 
