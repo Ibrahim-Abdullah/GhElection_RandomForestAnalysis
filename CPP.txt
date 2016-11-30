@@ -31,131 +31,131 @@ III	Science and Technology Policy 					11
 
 IV	Health Policy 							12
 
-V	Human Resource Development, Employment and Labour Policies 	13
+V	Human Resource 						 	13
 
-1.4.1 Labour Quality Improvement 					14
+VI	Labour Quality Improvement 					14
 
-1.4.2 Benchmarking Productivity and Productivity Revolution: 		14
+VII	Benchmarking Productivity and Productivity Revolution: 		14
 
-1.5 Housing Policy 							14
+VIII	Housing Policy 							14
 
-1.6 Cultural Policy 							15
+IX	Cultural Policy 							15
 
-1.7 Sports Policy							15
+X	Sports Policy							15
 
-1.8 Media and Society 							16
+XI	Media and Society 							16
 
-1.9 Combating Violent Crime 						16
+XII	Combating Violent Crime 						16
 
-1.10 Confronting the Narcotics Menace 					17
+XIII	Confronting the Narcotics Menace 					17
 
-1.11 Empowering Women: Beyond Gender Tokenism 				17
+XIV	Empowering Women		 				17
 
-1.12 Protecting our Children 						18
+XV	Protecting our Children 						18
 
-1.13 Caring for the Aged 						19
+XVI	Caring for the Aged 						19
 
-1.14 Persons with Disability 						19
+XVII	Persons with Disability 						19
 
-1.15 Developing our Youth						20
+XVIII	Developing our Youth						20
 
-1.16 Bridging the North-South Divide 					20
+XIX	Bridging the North-South Divide 					20
 
 
 B. ECONOMIC POLICIES 							21
 
-2.1 National Development Planning 					23
+XX	National Development Planning 					23
 
-2.2 Macroeconomic Policies 						23
+XXI	Macroeconomic Policies 						23
 
-2.2.1 Monetary Policy
+XXII	Monetary Policy
 
-2.2.2 Fiscal Policy
+XXIII	Fiscal Policy
 
-2.2.3 Exchange Rate Policy
+XXIV	Exchange Rate Policy
 
-2.3 Agricultural and Rural Transformation Policies 			25
+XXV	Agricultural and Rural Transformation Policies 			25
 
-2.3.1 Food, Fisheries and Livestock Sub-Sectors 			25
+XXVI	Food, Fisheries and Livestock Sub-Sectors 			25
 
-2.3.2 Cocoa Sub-Sector 							26
+XXVII	Cocoa Sub-Sector 							26
 
-2.3.3 Forestry and Tree Crops Sub-Sectors: 				26
+XXVIII	Forestry and Tree Crops Sub-Sectors: 				26
 
-2.3.4 Agro-processing 							27
+XXIX	Agro-processing 							27
 
-2.3.5 Rural Transformation 						27
+XXX	Rural Transformation 						27
 
-2.4 Industrial Policies 						27
+XXXI	Industrial Policies 						27
 
 
 
           
 
 
-2.4.1 Private Sector Development and Partnership: 			28
+XXXII	Private Sector Development and Partnership: 			28
 
-2.4.2 Mining and Quarrying Policy 					29
+XXXIII	Mining and Quarrying Policy 					29
 
-2.4.3 Manufacturing Policy 						29
+XXXIV	Manufacturing Policy 						29
 
-2.4.4 Energy Policy 							30
+XXXV	Energy Policy 							30
 
-2.4.5 Construction Policy 						31
+XXXVI	Construction Policy 						31
 
-2.5 Service Sector Policies 						32
+XXXVII	Service Sector Policies 						32
 
-2.6 Environment and Natural Resources 					33
+XXXVIII	Environment and Natural Resources 					33
 
-2.6.1 Natural Environment 						33
+XXXIX	Natural Environment 						33
 
-2.6.2 The Built Environment 						33
+XL	The Built Environment 						33
 
-2.6.3 Natural Resources 						33
+XLI	Natural Resources 						33
 
-2.7 Financing Development 						33
+XLII	Financing Development 						33
 
 
 
 C. RESPONSIVE GOVERNANCE 						35
 
-3.1 Beyond Good Governance 						35
+XLIII	Beyond Good Governance 						35
 
-3.2 Fighting Corruption 						35
+XLIV	Fighting Corruption 						35
 
-3.3 Devolution of Power and Increasing Social Accountability 		36
+XLV	Devolution of Power and Increasing Social Accountability 		36
 
-3.4 The Constitution Review Process 					36
+XLVI	The Constitution Review Process 					36
 
-3.5 Legislative Agenda 							37
+XLVII	Legislative Agenda 							37
 
-3.6 Referenda 								37
+XLVIII	Referenda 								37
 
-3.7 Role of Traditional Leaders 					37
+XLIX	Role of Traditional Leaders 					37
 
-3.8 Public Sector Reforms and Innovation 				38
+L	Public Sector Reforms and Innovation 				38
 
-3.9 National Security 							38
+LI	National Security 							38
 
-3.10 Judicial Reforms 							39
+LII	Judicial Reforms 							39
 
 
 
 D. INTERNATIONAL RELATIONS 						41
 
-4.1 Ghana and Globalisation 						41
+LIII	Ghana and Globalisation 						41
 
-4.2 Ghanaian Diaspora and Political Participation 			41
+LIV	Ghanaian Diaspora and Political Participation 			41
 
-4.3 International Professionals Forum of Ghana 				41
+LV	International Professionals Forum of Ghana 				41
 
-4.4 Relations with African Countries 					42
+LVI	Relations with African Countries 					42
 
-4.5 Relations with non-Ghanaian Diaspora 				42
+LVII	Relations with non-Ghanaian Diaspora 				42
 
-4.6 Relations with Donors 						42
+LVIII	Relations with Donors 						42
 
-4.7 Relations with Rest of the World 					42
+LIX	Relations with Rest of the World 					42
 
 
 
@@ -293,8 +293,9 @@ winning their confidence as their defenders against the evils of poverty, diseas
 ignorance and squalor. As Nkrumaists we strive to build a society that is just and fair for all.
 
 
+CHAPTER I
 
-1.1 Education Policy
+Education Policy
 
 For the CPP, education serves a multiple 
 purpose of aiding the individual to better 
@@ -440,10 +441,12 @@ opportunities for school leavers.
 They will not just be concerned with the 
 traditional craft skills, but also deal with 
 the office, the shop, the farm and the factory.
+
+CHAPTER II
 
 
 
-1.1.1 Tertiary Institutions:
+Tertiary Institutions:
 
 
 The CPP will expand and improve the 
@@ -521,7 +524,10 @@ reduce the cost of higher education to
 
 
 
-1.2 Science and Technology Policy
+
+CHAPTER III
+
+Science and Technology Policy
 
 
 
@@ -588,7 +594,10 @@ development, the CPP will do the following:
 
 
 
-1.3 Health Policy
+
+CHAPTER IV
+
+Health Policy
 
 
 The CPP proposes a health policy that will 
@@ -748,9 +757,11 @@ health insurance scheme will be
 
 
 
-1.4 Human Resource 
-Development, Employment and 
-Labour Policies
+CHAPTER V 
+
+Human Resource 
+
+Development, Employment and Labour Policies
 
 
 
@@ -863,8 +874,9 @@ and private sectors as well as the
 
 
 
-1.4.1 Labour quality 
-improvement:
+CHAPTER VI
+
+Labour Quality Improvement
 
 
 
@@ -892,8 +904,9 @@ earnings
 
 
 
-1.4.2 Benchmarking Productivity 
-and Productivity Revolution:
+CHAPTER VII
+
+Benchmarking Productivity and Productivity Revolution
 
 
 
@@ -914,7 +927,9 @@ solve them at the least cost possible.
 
 
 
-1.5 Housing Policy
+CHAPTER VIII
+
+Housing Policy
 
 
 
@@ -985,7 +1000,9 @@ Engineers and other relevant private
 
 
 
-1.6 Cultural Policy
+CHAPTER IX
+
+Cultural Policy
 
 
 
@@ -1074,8 +1091,9 @@ following:
 	performing and visual arts.
 
 
-
-1.7 	Sports Policy
+CHAPTER X
+ 
+Sports Policy
 
 
 
@@ -1137,7 +1155,10 @@ activity.
 
 
 
-1.8 Media and Society
+
+CHAPTER XI
+
+Media and Society
 
 
 
@@ -1194,8 +1215,9 @@ following, among others:
 
 
 
+CHAPTER XII
 
-1.9 Combating Violent Crime
+Combating Violent Crime
 
 
 
@@ -1259,8 +1281,9 @@ The CPP government will:
 
 
 
-1.10 Confronting the Narcotics 
-Menace
+CHAPTER XIII
+
+Confronting the Narcotics Menace
 
 
 
@@ -1311,9 +1334,9 @@ Treatment, and Education.
 
 
 
-1.11 	Empowering Women: 
-Beyond Gender Tokenism
+CHAPTER XIV
 
+Empowering Women
 
 
 The CPP's record on combatting political 
@@ -1395,8 +1418,9 @@ therefore, be pursued on these fronts:
 
 
 
+CHAPTER XV 
 
-1.12 Protecting our Children
+Protecting our Children
 
 
 
@@ -1441,8 +1465,9 @@ protect the Ghanaian child are:
 	education and recreation.
 
 
+CHAPTER XVI
 
-1.13 Caring for the Aged
+Caring for the Aged
 
 
 
@@ -1462,7 +1487,10 @@ in old age.)
 
 
 
-1.14 Persons with Disability
+
+CHAPTER XVII
+
+Persons with Disability
 
 
 
@@ -1576,7 +1604,9 @@ The CPP pledges to do the following:
 
 
 
-1.15 	Developing our Youth
+CHAPTER XVIII
+
+Developing our Youth
 
 
 
@@ -1623,8 +1653,9 @@ as outlined below:
 	resource development.
 
 
+CHAPTER XIX
 
-1.16 Bridging the North-South Divide
+Bridging the North-South Divide
 
 
 
@@ -1773,7 +1804,9 @@ CPP will do the following:
 
 
 
-2.1 National Development Planning
+CHAPTER XX
+
+National Development Planning
 
 
 
@@ -1785,7 +1818,9 @@ the 40-year development plan.
 
 
 
-2.2 Macroeconomic Policies
+CHAPTER XXI
+
+Macroeconomic Policies
 
 
 
@@ -1795,7 +1830,9 @@ stability by:
 
 
 
-2.2.1 Monetary Policy:
+CHAPTER XXII
+
+Monetary Policy:
 
 
 
@@ -1857,7 +1894,10 @@ supervision of rural banks.
 
 
 
-2.2.2 Fiscal Policy:
+
+CHAPTER XXIII
+
+Fiscal Policy:
 
 
 
@@ -1972,7 +2012,11 @@ and local government tax agencies.
 
 
 
-2.2.3 Exchange Rate Policy:
+
+CHAPTER XXIV
+
+Exchange Rate Policy:
+
 
 
 A CPP government will encourage and 
@@ -1984,7 +2028,9 @@ when necessary.
 
 
 
-2.3 Agricultural and Rural Transformation Policies
+CHAPTER XXV
+
+Agricultural and Rural Transformation Policies
 
 
 The NDC government's attitude towards 
@@ -2009,8 +2055,9 @@ following:
 
 
 
-2.3.1 Food, Fisheries and 
-Livestock Sub-Sectors:
+CHAPTER XXVI
+
+Food, Fisheries and Livestock Sub-Sectors
 
 
 
@@ -2177,7 +2224,9 @@ paid other countries.
 
 
 
-2.3.2 Cocoa Sub-Sector:
+CHAPTER XXVII
+
+Cocoa Sub-Sector
 
 
 We shall intensify cocoa produc on and 
@@ -2198,8 +2247,12 @@ cocoa and its products.
 
 
 
-2.3.3 Forestry and Tree Crops 
-Sub-Sectors:
+
+CHAPTER XXVIII
+
+Forestry and Tree Crops Sub-Sectors:
+
+
 
 
 We shall intensify current programmes such 
@@ -2233,8 +2286,9 @@ commodity sector.
 
 
 
-2.3.4 Agro-processing:
+CHAPTER XXIX
 
+Agro-processing
 
 Value addition to primary produce like 
 cashew, sheanuts, coconut, oranges, 
@@ -2262,7 +2316,10 @@ pharmaceutical grade starch.
 
 
 
-2.3.5 Rural Transformation:
+CHAPTER XXVIII
+
+Rural Transformation
+
 
 
 Rather than viewing the rural areas as a 
@@ -2295,7 +2352,9 @@ and lead to balanced development of the country.
 
 
 
-2.4 Industrial Policies
+CHAPTER XXIX
+
+Industrial Policies
 
 
 
@@ -2396,8 +2455,10 @@ with EU.
 
 
 
-2.4.1 Private Sector 
-Development and Partnership:
+CHAPTER XXX
+
+Private Sector Development and Partnership:
+
 
 
 Our private sector development policy is 
@@ -2502,9 +2563,9 @@ sector.
 
 
 
-2.4.2 Mining and Quarrying 
-Policy:
+CHAPTER XXXI
 
+Mining and Quarrying Policy
 
 A CPP government will address the 
 following major issues:
@@ -2572,7 +2633,9 @@ age in schools.
 
 
 
-2.4.3 Manufacturing Policy:
+CHAPTER XXXII
+
+Manufacturing Policy
 
 
 Manufacturing is the backbone of a modern 
@@ -2605,9 +2668,12 @@ rate for the manufacturing sector in order
 to make service reliable so as not to disrupt 
 manufacturing activity.
 
+CHAPTER XXXIII
+
 
 
-2.4.4 Energy Policy:
+
+Energy Policy
 
 
 The ultimate objective of our energy policy 
@@ -2799,7 +2865,9 @@ and distribute.
 
 
 
-2.4.5 Construction Policy:
+CHAPTER XXXIV
+
+Construction Policy
 
 
 
@@ -2866,7 +2934,10 @@ secretariat.
 
 
 
-2.5 Service Sector Policies
+CHAPTER XXXV
+
+Service Sector Policies
+
 
 
 The CPP's long-term objective for the sector 
@@ -2931,9 +3002,10 @@ sector is reserved for Ghanaians as stated
 in our laws.
 
 
+CHAPTER XXXVI
 
-2.6 Environment and Natural 
-Resources
+Environment and Natural Resources
+
 
 
 The CPP's policy on the environment will be 
@@ -2948,7 +3020,11 @@ we shall do the following, among others:
 
 
 
-2.6.1 Natural Environment:
+
+CHAPTER XXXVII
+
+Natural Environment
+
 
 
 A. Aggressively enforce laws against 
@@ -2975,8 +3051,9 @@ tree planting.
 
 
 
-2.6.2 The Built Environment:
+CHAPTER XXXVIII
 
+The Built Environment
 
 
 To ensure that Ghana has 21st century cities 
@@ -3013,7 +3090,10 @@ funding for its secretariat.
 
 
 
-2.6.3 Natural Resources:
+CHAPTER XXXIX
+
+Natural Resources
+
 
 
 We shall spare no effort to ensure the 
@@ -3049,7 +3129,9 @@ country.
 
 
 
-2.7 Financing Development
+CHAPTER XL
+
+Financing Development
 
 
 
@@ -3109,9 +3191,12 @@ and inconvenience of compliance to
 
 
 
+CHAPTER XLI
 
 
-3.1 Beyond Good Governance
+
+Beyond Good Governance
+
 
 
 The CPP will be a responsive government 
@@ -3120,7 +3205,10 @@ respond to the needs of the people.
 
 
 
-3.2 Fighting Corruption
+CHAPTER XLII
+
+Fighting Corruption
+
 
 
 1. A CPP government will deal with
@@ -3236,8 +3324,10 @@ National anti-corruption action plan
 (NACAP).
 
 
-3.3 Devolution of Power and 
-Increasing Social Accountability
+
+CHAPTER XLIII
+
+Devolution of Power and Increasing Social Accountability
 
 
 
@@ -3286,8 +3376,9 @@ take part in governance.
 
 
 
-3.4 The Constitution Review 
-Process
+CHAPTER XLIV
+
+The Constitution Review Process
 
 
 
@@ -3340,7 +3431,9 @@ year.
 
 
 
-3.5 Legislative Agenda
+CHAPTER XLV
+
+Legislative Agenda
 
 
 
@@ -3380,7 +3473,10 @@ the quality of governance.
 
 
 
-3.6 Referenda
+
+CHAPTER XLVI
+
+Referenda
 
 
 
@@ -3422,7 +3518,9 @@ influence over the legislature.
 
 
 
-3.7 Role of Traditional Leaders
+CHAPTER XLVII
+
+Role of Traditional Leaders
 
 
 
@@ -3441,7 +3539,9 @@ socio-economic development.
 
 
 
-3.8 Public Sector Reforms and Innovation
+CHAPTER XLVIII
+
+Public Sector Reforms and Innovation
 
 
 
@@ -3484,7 +3584,10 @@ through stronger supervision.
 
 
 
-3.9 National Security
+CHAPTER XLIX
+
+National Security
+
 
 
 Our defence policy is first and foremost to 
@@ -3577,7 +3680,10 @@ with the ECOWAS and the AU.
 
 
 
-3.10 Judicial Reforms
+CHAPTER L
+
+Judicial Reforms
+
 
 
 We also understand that 'justice delayed is justicce denied'. 
@@ -3608,11 +3714,14 @@ G. Promote education among the population on the rights and responsibilities of 
 
 
 
+CHAPTER LI
 
-4.1 Ghana and Globalisation
+Ghana and Globalisation
+
+
 
 In the age of globalisation,
- where labour, capital and production move across national 
+where labour, capital and production move across national 
 borders with relative ease, often at the expense of poor 
 countries like Ghana, it is important that we adopt 
 policies that protect us against the harmful effects of 
@@ -3621,7 +3730,10 @@ This we will do through the following:
 
 
 
-4.2 Ghanaian Diaspora and Political Participation
+CHAPTER LII
+
+Ghanaian Diaspora and Political Participation
+
 
 
 The CPP will pass a law that would enable Ghanaians 
@@ -3647,8 +3759,9 @@ same time contribute to the development of the land of their birth.
 
 
 
-4.3 International Professionals Forum of Ghana (IPFG)
+CHAPTER LIII
 
+International Professionals Forum of Ghana 
 
 
 The continued loss of Ghanaian professionals to the outside 
@@ -3667,9 +3780,14 @@ and management agenda.
 
 
 
-4.4 Relations with African Countries
+CHAPTER LIV
+
+Relations with African Countries
+
+
 
 Our relations with fellow
+
 African countries will be a continuation of the leadership role 
 Ghana played in the continent's independence in the 1950s and 1960s. 
 Among specific activities of intracontinental cooperation will be 
@@ -3705,18 +3823,26 @@ institutions leaves us vulnerable to political manipulation from abroad.
 
 
 
-4.5 Relations with non-Ghanaian Diaspora
+CHAPTER LV 
+
+Relations with non-Ghanaian Diaspora
+
 
 
 We will continue to collaborate 
 with the non-Ghanaian Diaspora in a 
 wide variety of areas, ranging from science and technology to 
 literature to commerce and sports.
+
+
+CHAPTER LVI
 
 
 
-4.6 Relations with 
-Donors
+
+Relations with Donors
+
+
 
 We appreciate the assistance that Ghana has received 
 from its donors over the years, especially in periods of severe 
@@ -3737,7 +3863,9 @@ Africa's socioeconomic development.
 
 
 
-4.7 Relations with Rest of the World
+CHAPTER LVII
+
+Relations with Rest of the World
 
 
 
