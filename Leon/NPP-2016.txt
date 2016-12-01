@@ -99,7 +99,7 @@ Chapter 16: Youth and Sports 161
 Chapter 17: Tourism, Culture and Creative Arts 167
 Chapter 18: Chieftaincy, Religious Affairs and Civil Society 173
 
-Chapter 1
+CHAPTER 1
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
 A STRONG ECONOMY MATTERS
@@ -339,7 +339,7 @@ In sum, we will make Ghana work again.
 
 
 
-Chapter 2
+CHAPTER 2
 
 TRADE AND INDUSTRY
 NEW PATRIOTIC PARTY
@@ -605,7 +605,7 @@ c. work with employers and trade unions to formulate a policy of comprehensive o
 In sum, ours is a holistic approach to job creation. The job creation strategies outlined in this chapter are by no means exhaustive. Other
 job creation initiatives have been covered under the other sectors in this manifesto.
 
-Chapter 3
+CHAPTER 3
 ENERGY AND PETROLEUM
 
 Under the Kufuor-led NPP government (2001-2008), significant contributions were made to the country’s energy resources and infrastructure as a result of our bold and farsighted policies. These
@@ -763,7 +763,7 @@ iii. leverage oil revenue to complete the Accra-Kumasi-Paga rail line connection
 
 iv. manage and use the revenue from the Jubilee, as well as from the TEN and SANKOFA fields, in a responsible and transparent manner.
 
-Chapter 4
+CHAPTER 4
 AGRICULTURE AND RURAL DEVELOPMENT
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -951,7 +951,7 @@ e. facilitate and support the establishment of stakeholder-controlled marketing 
 
 f. revive the Grains Development Board
 
-Chapter 5
+CHAPTER 5
 GROWING TOGETHER:
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -1078,7 +1078,7 @@ development.
 
 Together, the seven programmes under Growing Together will be directed at implementing key decentralised action plans, to realise the enormous resources available in every part of the country – human, natural, technological, and financial. This will help boost pivotal sectors in the various zones and develop the much needed infrastructure aimed at stimulating growth, creating jobs, and improving the lives and opportunities of life in these areas, as well as helping create viable local economies.
 
-Chapter 6
+CHAPTER 6
 INFRASTRUCTURE
 
 NPP will embark on a sustainable and integrated infrastructural development programme across the country. The integrated programme will address infrastructure that supports a modern road network, housing, water systems, aviation, ICT, ports, harbours, and railways. The NPP will ensure the best value for money and meaningful local participation in ICT at all levels. The programme will focus on reducing the cost of transportation, while decreasing the time it takes to move goods, food items and people from one location to another. We will create jobs and prosperity through our Integrated Infrastructure Development Programme.
@@ -1387,7 +1387,7 @@ b. fully implement section 103 (assignment of pension benefits for housing of wo
 
 c. facilitate also the development of an active mortgage market to expand mortgage loans to Ghanaians.
 
-Chapter 7
+CHAPTER 7
 NATURAL RESOURCES – LAND, FORESTRY AND MINING
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -1509,7 +1509,7 @@ It is NPP’s view that the artisanal, small-scale mining sub-sector needs restr
 This will enable small scale miners to work and earn their livelihoods in a regulated, secure, and lawful environment. By this process, the environment, especially our water bodies, can be
 protected and degraded land can be reclaimed through tree-planting and reforestation.
 
-Chapter 8
+CHAPTER 8
 SCIENCE, TECHNOLOGY, INNOVATION AND ENVIRONMENT
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -1608,7 +1608,7 @@ i. update and strengthen the many policies and programmes set up to manage the e
 
 ii. work, with its international partners to access, in a more effective manner, the $30 billion global fund available for climate change purposes.
 
-Chapter 9
+CHAPTER 9
 EDUCATION
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -1734,7 +1734,7 @@ reducing graduate unemployment. With the conversion of the Polytechnics into Tec
 
 Under the NPP, teacher trainee allowances will be fully restored. In addition, mechanisms will be put in place to ensure salaries of new teachers are promptly paid unlike the current situation under the NDC which has seen significant delays in their payment.
 
-Chapter 10
+CHAPTER 10
 HEALTH
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -1928,7 +1928,7 @@ NPP recognises the increasing incidence of cancers (childhood cancers, breast ca
 
 In this regard, the NPP will establish centres at all levels of our healthcare delivery system for screening, diagnosis, early detection and prevention of these cancers, and this will be paid for under the restructured and revitalised NHIS.
 
-Chapter 11
+CHAPTER 11
 SOCIAL DEVELOPMENT
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -2056,7 +2056,7 @@ d. strengthening and enforcing regulations, and introducing national minimum sta
 
 e. strengthening regulations and reforming the adoption and foster care regime and providing incentives for fostering at-risk children.
 
-Chapter 12
+CHAPTER 12
 GOVERNANCE, CORRUPTION AND PUBLIC ACCOUNTABILITY
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -2176,7 +2176,7 @@ The NPP intends to resource the National Commission on Civic Education (NCCE) to
 
 Finally, the NPP in government will sponsor the establishment of an interactive website for public reporting of corrupt practices in accordance with the Whistle Blower’s Act, 2006 (Act 720).
 
-Chapter 13
+CHAPTER 13
 LOCAL GOVERNMENT
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -2237,7 +2237,7 @@ c. sanitation related fines
 
 The NPP will also promote recycling of refuse through the use of incentive packages.
 
-Chapter 14
+CHAPTER 14
 SECURITY
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -2377,7 +2377,7 @@ c. curb the smuggling of small arms and light weapons into the country, and
 d. ensure that the protocol on small arms and light weapons is incorporated into our domestic law.
 
 
-Chapter 15
+CHAPTER 15
 FOREIGN AFFAIRS
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -2425,7 +2425,7 @@ A significant aspect of our foreign policy will be the promotion of the welfare 
 
 In furtherance of this, we will help in the implementation of the Representation of The People’s Law, 1992 (PNDCL 284), as amended (alias ROPAL). The Diaspora Affairs Bureau will also be moved from the Foreign Ministry to the Office of the President to coordinate more effectively all matters affecting Ghanaians in the diaspora.
 
-Chapter 16
+CHAPTER 16
 YOUTH AND SPORTS
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -2489,7 +2489,7 @@ k. investing in a special Women-In-Sports programme to help unearth and support 
 
 l. awarding scholarships to promising young athletes so they can develop in the best of environments.
 
-Chapter 17
+CHAPTER 17
 TOURISM, CULTURE AND CREATIVE ARTS
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -2544,7 +2544,7 @@ To provide an effective interface with Government and other key stakeholders, th
 
 In order to stimulate an interest in the arts in young people, we will promote regional and district literature, music, dance and drama competitions, particularly in schools and colleges. We will pursue the construction of modern large seating theatres in every regional capital except Accra, beginning with Takoradi, Tamale and Kumasi, as well as setting up an additional Copyright Office in Tamale to cater for the northern sector in addition to the existing ones in Accra and Kumasi.
 
-Chapter 18
+CHAPTER 18
 CHIEFTAINCY, RELIGIOUS AFFAIRS AND CIVIL SOCIETY
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
@@ -2593,3 +2593,7 @@ The future is bright.
 God bless Ghana, God bless us all.
 NEW PATRIOTIC PARTY
 DEVELOPMENT IN FREEDOM
+
+
+
+End of manifesto
