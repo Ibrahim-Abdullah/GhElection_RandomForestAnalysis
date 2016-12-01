@@ -15,7 +15,7 @@ a sense of belonging such that they will be committed to the Better Ghana agenda
 substitution of co-ordinated planning for the anarchy of individualistic acquisitions. The NDC insists that we must plan a growth path that will lead to building a Better Ghana in which all with potential will be able to prosper. With zest, zeal, commitment, vision and love for country, a Better Ghana can, and will, be built. This Manifesto is the NDC's roadmap to building a prosperous Ghana. I am confident that with the Open, Honest Transparent and Humble Leadership I pledge to provide, together with our Team, the NDC and well-meaning Ghanaians, including those belonging to other sides of the political divide, we shall be able to build "a Better Ghana". This NDC Manifesto was created by Ghanaians of all walks of life and regions who spoke to Prof. Mills on the door-to-door tours. The policies and pledges contained are built upon the difficulties and challenges Ghanaians find most important. The NDC Manifesto is dedicated to those who work and contribute to their families, businesses and communities, but are blocked from social and economic openings. It seeks to empower every Ghanaian to access the necessities of life in security and play a meaningful part in developing our country.
 Yours sincerely, Prof John Evans Atta Mills
 
-GOVERNANCE
+CHAPTER 1.GOVERNANCE
 
 Transparent and Responsible Government with service, humility and integrity are the core pillars of the Manifesto. The NDC will rationalize government ministries and form a government on expertise and competence ­ not party or family interests. The NDC will also uphold the Constitution by ensuring equality amongst ALL Ghanaians - economic and social development, agriculture and industrial programmes must benefit ALL regions of Ghana.
 Crusade Against Corruption Corruption and the use of state resources for personal gain by a few has derailed earlier gains to better the lives of Ghanaians. Precious resources of hard-working Ghanaians are wasted in corruption. For prosperity to truly spread, the corruption must end. The NDC will:
@@ -26,6 +26,7 @@ Crusade Against Corruption Corruption and the use of state resources for persona
 5.Revise the law on Asset Declaration to increase transparency and accountability.
 6. Enact a Freedom of Information Bill so the public has access to official information.
 7. Support the role of the Media in promoting national unity, stability and security.
+
 Law and Justice Ghanaians have told us repeatedly they feel denied justice because of costly litigation, delays and corruption. The NDC is committed to ending the system of two justices ­ one for the rich and one for the rest. To achieve this, the NDC will:
 1. Support Alternative Dispute Resolution to avoid costly and delayed litigation.
 2. Strengthen the Legal Aid system ­ including making some services free.
@@ -69,10 +70,8 @@ the demarcation of districts (NOT political) and align sub-district structures w
 7. Deepen the decentralization of government. · Transfer administrative functions such as company registration and passport processing to the District level. · Stop tying the DA Common Fund to projects dictated by the Ministry - allow priorities to be determined locally. · Separate the DA Common Fund from the MPs Common Fund. · Abolish the practice of giving part of the Common Fund to Ministries, Regional Councils and administrative bodies so the funds go to the Districts. · Re-integrate the DAs into the tender awarding process.
 Public Sector Companies Public sector companies belong to the people of Ghana. They need to be protected and their values enhanced without compromising social policy. Political interests must be purged from public companies and standards of performance met. The NDC will:
 
+CHAPTER 2.
 A Better Ghana. Investing in people, jobs and the economy
-
-3
-
 1.Require public sector companies to put operations and efficiency over political concerns.
 2. Not appoint Ministers and MPs to positions of Chairman or Chairwoman of Board of Directors of public sector companies to avoid intrusion of party politics.
 3. Separate state ownership from the role of management in the Board of Directors so that the public sector companies operate under the same controls as private companies.
@@ -87,6 +86,7 @@ E-Governance New technologies can reduce corruption and decrease the attempts an
 4. Use systems to monitor the actions of those in ministries, departments and agencies.
 Honoring Promises The NDC is committed to implementing the objectives and policies set out in this NDC Manifesto. The NDC government will establish as Monitoring Unit that will watch and measure the implementation of the Manifesto's pledges and promise.
 
+CHAPTER 3.
 ECONOMY
 
 An Activist and Enabling State Countries that achieve growth and development have states that facilitate and push growth, without regard to politics or family. With this as a guide the new NDC government will:
@@ -121,7 +121,7 @@ Industrialization Ghana's industries are hampered by a business environment that
 
 A Better Ghana. Investing in people, jobs and the economy
 
-4
+CHAPTER 4.
 
 · Processing agricultural goods - to benefit both farmers and industrial entrepreneurs.
 · Develop limestone deposits at Buipe, Nauli and Nadowli for cement.
@@ -186,9 +186,7 @@ Employment Policy Ghana has the resources for all Ghanaians to have a dignified 
 
 A Better Ghana. Investing in people, jobs and the economy
 
-5
-
-Investing in people
+CHAPTER 5.Investing in people
 
 The new NDC government will place social policy as its foundation ­ it is committed to social investment to make a Better life for all Ghanaians.
 Health Care Malnutrition, poor sanitation, unsafe water, poverty and a shortage of health care providers equal high infant and maternal mortality, large gaps in health care between urban and rural, rich and poor. The new NDC government will promote and extend access to quality, affordable basic primary health services for all Ghanaians. Promoting health, preventing illness, and providing cures requires the full attention of all sectors of government. The NDC will take a multi-sector approach to health, and: 1. Improve the NHIS to extend access
@@ -231,7 +229,7 @@ workshops to 2nd cycle girls going into science careers.
 
 A Better Ghana. Investing in people, jobs and the economy
 
-6
+CHAPTER 6.
 
 5.Assume water and electricity bills at second cycle schools.
 6. Expand the curricula to include more languages, computer science and arts.
@@ -263,6 +261,7 @@ sanitation and community-based health services for females. · Achieve gender equ
 6. Target urban poverty: · Embark on a major slum renewal for improved housing and access to social services. · Provide a social security system for the informal sector. · Promote labor intensive industry to provide urban jobs. · Expand skills-training and job placement for youth to fill the job skills industry needs. · Reduce child labor.
 7. Target rural poverty: · Improve agricultural productivity: Build infrastructure such as road networks and storage facilities; Invest in quality extension services; Provide subsidies to targeted farm sectors. · Promote simple and appropriate forms of transportation. · Provide incentives for businesses and public and private sectors workers to locate in rural areas. · Enforce accountability of local government and increase participation of the poor and disadvantaged.
 
+CHAPTER 7.
 Infrastructure for Growth
 
 Housing Most Ghanaians know too well the problems with housing ­ overcrowding, poor quality, and just simply not enough places to live decently. Fixing this means lowering the cost of building materials and inputs, improving building skills and enforcing standards. This is what the new NDC government will do:
@@ -301,7 +300,7 @@ Sanitation Ghana's low access to sanitation and slipping health conditions risk 
 
 A Better Ghana. Investing in people, jobs and the economy
 
-7
+CHAPTER 8.
 
 5. Provide hand-washing facilities at public institutions, especially at all schools.
 Transportation Good transportation leads to productivity, health and safety, and lowers the costs of goods at the market. The costs we now face in time, stress, accidents and freight expenses are too high, mostly caused by corruption and playing politics. A Better Life through industrial and agricultural growth means improving the movement of people and goods. The NDC will:
@@ -353,5 +352,6 @@ Petroleum We must restore transparency and end corruption in the petrol sector i
 This Pledge is our covenant with the people of Ghana
 
 A Better Ghana. Investing in people, jobs and the economy
+End of manifesto
 
 
