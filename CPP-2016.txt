@@ -1,4 +1,4 @@
-IVOR KOBINA GREENSTREET (Presidential candidate of the Convention People's Party (CPP))
+ï»¿IVOR KOBINA GREENSTREET (Presidential candidate of the Convention People's Party (CPP))
 
 NANA GABBYS NKETIAH
 (Vice Presidential candidate of the Convention People's Party (CPP))
@@ -25,7 +25,8 @@ A. SOCIAL POLICIES 							IX
 CHAPTER								      PAGE
 I 	Education Policy 						 9
 
-II	Tertiary Institutions 						10
+
+II.	Tertiary Institutions 						10
 
 III	Science and Technology Policy 					11
 
@@ -172,7 +173,7 @@ essentially been missing since 1966. It is time we restore it. Our people can wa
 This manifesto answers our people's cry for a new covenant ( Apamfoforo )in Ghana. We believe 
 that the State has a binding commitment to use its power to promote high rates of economic 
 growth and development as well as to ensure that the wealth thereof is shared equitably among
-Ghanaians ­ North and South, East and West. 
+Ghanaians Â­ North and South, East and West. 
 
 We aspire to work together with all Ghanaians to create a prosperous, just, safe, caring and 
 united society where there is adequate food and shelter for all and there are ample 
@@ -441,15 +442,21 @@ opportunities for school leavers.
 They will not just be concerned with the 
 traditional craft skills, but also deal with 
 the office, the shop, the farm and the factory.
-
+
+
 CHAPTER II
 
 
 
 Tertiary Institutions:
+<<<<<<< HEAD:CPP.txt
 
 
 
+=======
+
+
+>>>>>>> 94bd22ff382fb328a6d90599352a489bee4155fd:CPP-2016.txt
 The CPP will expand and improve the 
 quality of facilities at all tertiary institutions 
 under AESIP to world class levels in order to 
@@ -699,7 +706,7 @@ We will:
 16. 	Establish health desks at key ministries 
 	listed above -- Food and Agriculture, 
 	Sports, Local Government and Rural 
-	Development ­ as well as Education, 
+	Development Â­ as well as Education, 
 	and Water Resources for providing both 
 	preventive and curative care.
 
@@ -1149,7 +1156,7 @@ activity.
 
 
 
-4. 	Sports Studies ­ Set up a tertiary 
+4. 	Sports Studies Â­ Set up a tertiary 
 	institution of international standing for 	
 	the study and teaching of sports and 
 	specialised sports medicine.
@@ -1196,7 +1203,7 @@ following, among others:
 
 
 3. 	Advertising in Ghana: 
-· 	Outlaw the use of foreign-made 
+Â· 	Outlaw the use of foreign-made 
 	commercials on Ghanaian airwaves as a 
 	way to help local media houses build 
 	their capacity and create employment 
@@ -1496,7 +1503,7 @@ Persons with Disability
 
 
 Despite the passage of the Disability Act, 
-2006 (Act 715), the disabled ­ PWDs ­ in 
+2006 (Act 715), the disabled Â­ PWDs Â­ in 
 Ghana continue to face serious 
 discrimination and institutional 
 impediments to their efforts to contribute 
@@ -2670,7 +2677,8 @@ to make service reliable so as not to disrupt
 manufacturing activity.
 
 CHAPTER XXXV
-
+
+
 
 
 
@@ -3652,7 +3660,7 @@ and well-motivated Armed Forces.
 6. Providing a national framework to formally 
 engage the Armed Forces in the provision and 
 maintenance of infrastructure of all kinds 
-for public use ­ at home and abroad.
+for public use Â­ at home and abroad.
 
 
 
@@ -3833,7 +3841,8 @@ We will continue to collaborate
 with the non-Ghanaian Diaspora in a 
 wide variety of areas, ranging from science and technology to 
 literature to commerce and sports.
-
+
+
 
 CHAPTER LVIII
 
@@ -3923,3 +3932,4 @@ in the printing of this 2016 manifesto.
 
 43
 
+End of manifesto
