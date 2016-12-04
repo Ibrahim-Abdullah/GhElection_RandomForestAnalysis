@@ -1,6 +1,6 @@
 ﻿
 
-CHAPTER 9
+CHAPTER 1.
 EDUCATION
 Societies that have made rapid progress around the world have all put education at the heart of their development. To be able to transform Ghana, therefore, it is important that our children and young people are equipped with the kind of education that places them at par with their peers across the globe. Ghana's children should have the education that ensures that they achieve their full potential, a holistic education that equips them with skill sets to make a full contribution to the development of Ghana and themselves. An education that looks beyond merely passing examinations but rather at building character, nurturing values and raising literate, confident and useful citizens that are equipped with critical thinking abilities is what the APC seeks to provide.
 
@@ -77,7 +77,7 @@ We will restructure the education curricula to teach and equip Ghanaians student
 
 We will reorient the educational curriculum at all levels, especially higher education, to impart the knowledge and attitudes needed to promote self-employment and entrepreneurship rather than salaried employment.
 
-CHAPTER 10
+CHAPTER 2.
 HEALTH
 APC 2017 ­ 2020 Priority Areas
 
@@ -162,7 +162,7 @@ transplantation and assisted reproduction.
 
 16. Improving health data quality to inform local, district and national planning.
 
-CHAPTER 11
+CHAPTER 3.
 SECURITY
 
 The APC believes that the simple blanket implementation of our existing laws by our security agencies, without selectivity, will go a long way to sanitize our society, assuage the fears of the citizenry and dramatically transform our society.
@@ -243,7 +243,7 @@ SMALL ARMS
 
 We will put measures to curb the proliferation of small arms and light weapons, and enforce laws on its illegal possession, manufacturing and trade.
 
-CHAPTER 12
+CHAPTER 4.
 
 YOUTH AND SPORTS
 YOUTH AGENDA
@@ -299,7 +299,7 @@ President Kufuor.
 
 11. Award scholarships to promising young athletes so they can development in the best of environments.
 
-CHAPTER 13
+CHAPTER 5.
 SOCIAL DEVELOPMENT
 Building a Compassionate Society
 We aim to create a society of fair opportunities for all Ghanaians. The APC government will create a compassionate society which ensures that all citizens share in Ghana's wealth and prosperity. This will be achieved by establishing a well-funded, functioning welfare system to address the needs of the weak, marginalized, vulnerable and socially excluded.
@@ -453,7 +453,7 @@ Programmes will be undertaken to rehabilitate abandoned disabled women/girls by 
 house them and training for gainful employment skills.
 Steps shall be taken to provide short duration stay homes for women with disabilities, hostels for working disabled women, and homes for aged disabled women.The APC Government will implement a programme to provide financial support to women with disabilities so that they may hire services to look after their children.
 
-CHAPTER 14
+CHAPTER 6.
 INFRASTRUCTURE
 
 The APC will embark on a sustainable and integrated infrastructural development programme across the country, including a modern road network, housing, water systems, aviation, ICT, and railways. We will ensure the best value for money and meaningful Ghanaian participation in ICT at all levels. We shall create jobs and prosperity through our Integrated Infrastructure Development Programme.
@@ -658,7 +658,7 @@ We will:
 * We will implement a national policy requiring every public building including new homes built under all PPP arrangements to install solar
 panels and water-harvesting technologies.
 
-CHAPTER 15
+CHAPTER 7.
 
 NATURAL RESOURCES ­ LAND, FORESTRY AND MINING
 
@@ -746,7 +746,7 @@ Science Technology and Innovation (STI) programmes.
 
 * We will fully decentralize the Minerals Commission by establishing additional district offices of the Commission.
 
-CHAPTER 16
+CHAPTER 8.
 
 SCIENCE, TECHNOLOGY, INNOVATION AND ENVIRONMENT
 
@@ -835,7 +835,7 @@ Environment
 * The APC will work with its international partners to access, in a more effective manner, the $30 billion global fund available for climate
 change purposes.
 
-CHAPTER 17
+CHAPTER 9.
 
 TOURISM, CULTURE AND CREATIVE ARTS
 
@@ -869,7 +869,7 @@ To provide an effective interface with government and other key stakeholders, th
 
 In order to stimulate an interest in the arts in young people, we will promote regional and district literature, music, dance and drama competitions, particularly in schools and colleges. We will pursue the construction of modern large seating theatres in Takoradi, Tamale and Kumasi. We will also set up an additional Copyright Office in Tamale to cater for the Northern Sector in addition to the existing ones in Accra and Kumasi.
 
-CHAPTER 18
+CHAPTER 10.
 
 CHIEFTAINCY,RELIGIOUS AFFAIRS AND CIVIL SOCIETY
 
@@ -920,3 +920,4 @@ Ladies and gentlemen, the NPP and NDC know the problems of our country, but the 
 Our Agenda for 2016, promises nothing but jobs, prosperity and securing the future. This is our solemn pledge to the people of Ghana.
 
 GhanaPoliticsOnline.Com
+End of manifesto

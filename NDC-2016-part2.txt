@@ -1,4 +1,4 @@
-﻿CHAPTER 18.
+CHAPTER 1.
 ROADS
 
 There has been unprecedented expansion in the road network of Ghana since 2009. We have constructed modern, durable and better roads across the length and breadth of the country. This has ensured the free movement of goods and services, and widened access to markets.
@@ -96,7 +96,7 @@ Circle Interchange
 (Brong Ahafo Region)
 - Berekum-Nsawkaw Phase II (Brong Ahafo
 Region)
-CHAPTER 19.
+CHAPTER 2.
 TRANSPORT
 
 Significant improvements have been achieved in all the transport sub-sectors namely maritime and inland water, aviation, railway and road transport.
@@ -312,7 +312,7 @@ We will
 * Collaborate with stakeholders to provide a permanent campus for the African Institute for Mathematical Sciences (AIMS), Ghana;
 * Work towards attaining the national objective of 60:40 admission ratio in tertiary institutions in favour of the sciences;
 * Work with the private sector to commercialize research output.
-CHAPTER 22.
+CHAPTER 3.
 ENVIRONMENT AND CLIMATE CHANGE
 
 The challenge for us and for human kind is to work towards reducing the adverse effects of environmental degradation and climate change for sustainable development.
@@ -345,7 +345,7 @@ A key component of our strategy will be the implementation of a national program
 * Implementing the 'Greening Ghana' policy starting with the capital city Accra where various types of flowers, shrubs and trees will be planted along the roads, in public places, schools and parks to beautify and transform the face of the city, to create environmental balance and to enhance touristic value;
 * Supporting the nurturing and planting of tree seedlings across the country;
 * Integrating environmental sustainability into all local development plans.
-CHAPTER 23.
+CHAPTER 4.
 IMPROVING SANITATION
 
 The NDC acknowledges the benefit of a healthy environment to the citizenry and country. The government has rolled out initiatives to deal with the impact of poor sanitation on the health of our people as well as some of our educational and tourism assets.
@@ -391,7 +391,7 @@ We will
 * Support the construction of the Accra Compost and Recycling plant and site a second recycling plant in Kumasi;
 * Establish the Plastic Waste Recycling Fund provided for under the Customs and Excise (Duties and Other Taxes) (Amendment) Act, 2013 (Act 863) into which a percentage of revenues derived from plastic imports will be paid to be used for the recycling of plastics;
 * Establish plastic waste receiving centres for recycling in every district to receive, shred and compact waste for onward transportation to recycling factories.
-CHAPTER 24.
+CHAPTER 5.
 CLIMATE CHANGE
 
 OUR ACHIEVEMENTS
@@ -416,7 +416,7 @@ We will
 * Protect important wet-lands from encroachment;
 * Ensure effective management of biodiversity hotspots;
 * Strive to meet the commitments made in the Nationally Determined Contribution to the efforts to reduce global warming contained in the Paris Climate Change Agreement.
-CHAPTER 25.
+CHAPTER 6.
 HOUSING
 
 The NDC Government is taking concrete steps to respond to the increasing housing demand. Alongside the private sector, we have embarked on an aggressive housing programme targeted at middle to lower income earners in urban and rural areas.
@@ -445,7 +445,7 @@ We will
 * Establish a regulatory body to set and enforce standards management, quality control and capacity development in the built environment.
 
 THEME FOUR
-CHAPTER 26.
+CHAPTER 7.
 TRANSPARENT AND ACCOUNTABLE GOVERNANCE
 
 Ghana's impressive record of good governance over the past two and a half decades has gained universal acclaim. The NDC's even more impressive record of good governance in the last few years has manifested itself in the following global acknowledgements:
@@ -483,7 +483,7 @@ We will
 * Continue to provide all MPs with Personal and Research Assistants with a minimum of a first degree at public expense with same tenure of office as that of the MP;
 * Continue work on the construction of additional office space for 23 MPs currently without offices;
 * Construct a Parliamentary Village to serve as duty posts for MPs in order to improve their security and protection.
-CHAPTER 27.
+CHAPTER 8.
 ENHANCING THE RULE OF LAW AND JUSTICE
 
 We are committed to enhancing transparent open government, protection of fundamental human rights, regulation enforcement, civil and criminal justice, access to justice, order and security, and anti-corruption measures.
@@ -509,7 +509,7 @@ We will
 * Continue and scale up the implementation of the 'Justice for All' programme.
 
 [photo: New Court Complex]
-CHAPTER 28.
+CHAPTER 9.
 COMBATING CORRUPTION
 
 A moral and just society is a benchmark for good governance. Consequently, we have supported open investigations, exposed wrong-doing and initiated criminal prosecutions in a nondiscriminatory manner.
@@ -540,7 +540,7 @@ We will
 * Create civic awareness to enable the public demand accountability from public officials;
 * Promote integrity in the public sector by motivating and rewarding honest public officers;
 * Strengthen Anti-Corruption and Law Enforcement institutions.
-CHAPTER 29.
+CHAPTER 10.
 IMPACT OF CYBER SPACE ON NATIONAL DEVELOPMENT
 
 Like other countries, Ghana is increasingly reliant on Information and Communication Technology (ICT) for the progress of the nation. By exploiting the advantages created by automation, networked computers and digital communication the economy has been stimulated and growth enhanced.
@@ -562,7 +562,7 @@ The next NDC administration plans to confront four critical tasks:
 * Create the capacity to develop and manage the structures needed to combat cyber-crime;
 * Enhance international cooperation by establishing a network with key partners in the global cyber security system;
 * Establish an elite national cyber security unit to coordinate cyber security operations, harness existing skills and facilities and develop an operational plan to combat the threats that will be identified.
-CHAPTER 30.
+CHAPTER 11.
 FIGHTING NARCO-TERRORISM
 
 We have maintained our strong stance against narcotics trafficking and have demonstrated our firm commitment to making Ghana a no-go area for drug traffickers and their hirelings. We have restored confidence in Ghana's ability to collaborate with stakeholders, nationally and internationally to relentlessly combat narcotics trafficking. This is demonstrated by the very effective anti narco-terrorism campaign waged by the NDC Government.
@@ -581,7 +581,7 @@ We will
 * Step up international cooperation in the fight against the narcotics trade;
 * Complete the process of converting NACOB into a commission, and empower it to heighten vigilance and intensify the campaign of creating awareness about the disastrous effects of drug abuse;
 * Strengthen the collaboration between NACOB and the Food and Drugs Authority in drug enforcement.
-CHAPTER 31.
+CHAPTER 12.
 DEEPENING DECENTRALISATION AND LOCAL GOVERNANCE
 
 Having introduced the most comprehensive decentralisation policy in the 4th Republic, the NDC Government continues to implement reforms and develop the local government sector in the bid to bring government closer to the people, so as to respond to the development aspirations of the citizenry.
@@ -637,7 +637,7 @@ We will
 * Implement the modified procedure for the emergence of MMDCEs as contained in the Government White Paper on the Constitution Review Commission (CRC) report;
 * Complete the property-addressing component of the Street Naming and Property Addressing Project and ensure electronic mapping.
 * Modernise major local markets in the districts.
-CHAPTER 32.
+CHAPTER 13.
 ENHANCING PUBLIC SECTOR REFORM
 
 We recognise that our Transformation Agenda can be implemented more successfully through a public sector that is responsive, efficient and effective. It is for this reason that the NDC Government began rationalising and redefining structures and roles of state institutions to bring about systematic and sustainable change in service delivery.
@@ -668,7 +668,7 @@ We also commit ourselves to
 * Implement and coordinate Service Delivery Improvement Programmes;
 * Implement the National Action Plan of Ghana Open Government Partnership (OGP) initiative;
 * Ensure the establishment of a performance contracting regime for sub-vented agencies.
-CHAPTER 33.
+CHAPTER 14.
 INDEPENDENT CONSTITIONAL BODIES
 
 The NDC acknowledges the significant contributions of Independent Constitutional Bodies (ICB), namely the Commission on Human Rights and Administrative Justice (CHRAJ), the Electoral Commission (EC), the National Commission for Civic Education (NCCE), the National Media Commission and the Audit Service to our democratic process.
@@ -685,7 +685,7 @@ We will
 * Establish the Independent Emoluments Commission to determine the emoluments of all public offices including Chairpersons and members of the ICBs as recommended by the CRC;
 * Continue with reforms in the legal service and justice sector;
 * Transform the Legal Aid Board into an Independent Constitutional Body to be funded in the same manner as other ICBs as recommended by the CRC.
-CHAPTER 34.
+CHAPTER 15.
 THE MEDIA
 
 The NDC considers the media as partners in national development. That is why we have continued to be attentive to their constructive criticisms to shape policies and programmes. To this end, we will continue to work towards building a free and just society where free speech is cherished and encouraged.
@@ -715,7 +715,7 @@ We will
 * Provide free set-up boxes (decoders) to vulnerable households.
 * Reduce capital expenditure in television broadcasting through the implementation of the digital migration process;
 * Ensure complete Analogue Switch Off.
-CHAPTER 35.
+CHAPTER 16.
 NATIONAL SECURITY
 
 The NDC is committed and will continue to implement policies that ensure not only the peace and security of the citizenry but also maintenance of law and order. New and global security threats such as terrorism and cyber security issues have emerged and intensified but have been effectively prevented and combated.
@@ -755,7 +755,7 @@ We will
 * Provide command and operational vehicles for the Fire Service, Prisons and Immigration services;
 * Provide modern communication equipment for all security services;
 * Construct hospitals for the remaining security services, Prisons, Fire Service, Immigration and Customs.
-CHAPTER 36.
+CHAPTER 17.
 TERRITORIAL INTEGRITY
 
 The Ghana Armed Forces has been retooled and motivated. It remains ready at all times to protect the territorial integrity of our motherland. Its professionalism and effectiveness, nationally and internationally, is well known and appreciated. It has contributed to the maintenance of peace and stability in Ghana and ensured the protection of our marine resources including the offshore hydrocarbon fields.
@@ -781,7 +781,7 @@ We will
 * Be proactive in the protection of key strategic installations throughout the country;
 * Increase the numerical strength of the Ghana Armed Forces and continue to provide the needed up to date logistics to facilitate and enhance performance;
 * Assist the Ghana Air Force to establish a flight training school in Tamale as a centre of excellence for West Africa.
-CHAPTER 37.
+CHAPTER 18.
 INTERNATIONAL RELATIONS
 
 Ghana's foreign policy will continue to be that of positive neutrality. We will also emphasise economic diplomacy. The commitment to peace and security in the West African sub-region is paramount in our inter-regional diplomatic relations. This obliges us to support political stability of neighbouring countries and uphold all Ghana's commitments to the United Nations, Non-Aligned Movement, African Union (AU), the Commonwealth, ECOWAS, and other international organizations of which we are members.
