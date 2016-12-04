@@ -32,7 +32,7 @@ bk = character()
 # look for special lines to indicate chapter starts
 chaps = grep("^CHAPTER [IVXLC0-9.]+$",txt,value=FALSE,ignore.case=TRUE)
 # and a special line after the last chapter
-endlast = grep("End of manifesto",txt,value=FALSE,ignore.case=TRUE)
+endlast = grep("End of the Project Gutenberg",txt,value=FALSE,ignore.case=TRUE)
 chaps = c(chaps,endlast)
 # paste together chapters into single strings
 for(ch in 1:(length(chaps)-1)){
@@ -68,12 +68,12 @@ books = list.files(pattern="[.]txt$")
 # try to predict one of each, the last of the list by
 # each author
 authors = rep("NPP",length(books))
-#authors[grepl("stephen-crane",books)] = "SC"
-#authors[grepl("henry-james",books)] = "HJ"
+authors[grepl("CPP",books)] = "CPP"
+authors[grepl("NDC",books)] = "NDC"
 findme = rep(0,length(books))
 findme[max(seq(along=books)[authors=="NPP"])] = 1
-#findme[max(seq(along=books)[authors=="SC"])] = 2
-#findme[max(seq(along=books)[authors=="HJ"])] = 3
+findme[max(seq(along=books)[authors=="CPP"])] = 2
+findme[max(seq(along=books)[authors=="NDC"])] = 3
 # set up a vector to count the chapters per book
 
 cat("Reading books, this may take a while...\n")
@@ -104,29 +104,27 @@ propshow <- reshape(tall,direction='long',
     varying=list(toshow))
 bwplot(  cats ~ScaledScore  | Word,data=propshow)
 # now try to predict on new texts:
-pLMA <- predict(rf1,monster[guesschapters==1,],type='prob')
-#pSC <- predict(rf1,monster[guesschapters==2,],type='prob')
-#pHJ <- predict(rf1,monster[guesschapters==3,],type='prob')
+pNPP <- predict(rf1,monster[guesschapters==1,],type='prob')
+pCPP- predict(rf1,monster[guesschapters==2,],type='prob')
+pNDC <- predict(rf1,monster[guesschapters==3,],type='prob')
 
-dimnames(pLMA) = NULL
-#dimnames(pSC) = NULL
-#dimnames(pHJ) = NULL
+dimnames(pNPP) = NULL
+dimnames(pCPP) = NULL
+dimnames(pNDC) = NULL
 
 preds <- as.data.frame(rbind(pLMA,pSC,pHJ))
-names(preds) = c("LMA")
+names(preds) = c("NPP","CPP","NDC")
 winner = apply(rbind(pLMA,pSC,pHJ),1,max)
 guess = rep("unkn",dim(preds)[2])
 guess[preds[,1]==winner] = names(preds)[1]
-#guess[preds[,2]==winner] = names(preds)[2]
-#guess[preds[,3]==winner] = names(preds)[3]
+guess[preds[,2]==winner] = names(preds)[2]
+guess[preds[,3]==winner] = names(preds)[3]
 
 guess = factor(guess,levels=names(preds)[1:4])
-preds$Book <- c(rep('NPP-2016',nrow(pLMA)))
-   # rep('The Jolly Corner',nrow(pSC)),
-#	rep('Wounds in the Rain',nrow(pHJ)))
+preds$Book <- c(rep('Rose in Bloom',nrow(pNPP)))
 predshow <- reshape(preds,direction='long',
-    timevar='Prediction',v.names='Score',times=c('LMA'),
-    varying=list(w=c('LMA')))
+    timevar='Prediction',v.names='Score',times=c('NPP'),
+    varying=list(w=c('NPP')))
 densityplot(~Score | Prediction + Book,data=predshow)
 table(preds$Book,guess)
 
