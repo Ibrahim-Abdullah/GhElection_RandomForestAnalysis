@@ -1,4 +1,4 @@
-# authorship.R, cwjackson, 9/Nov/2016
+# authorship.R, Francis Yinbil, 4/December/2016
 # determining authorship via relative stopwords
 # per http://wiekvoet.blogspot.ca/2012/12/common-words-in-gathering-storm.html
 library(randomForest) # for randomForest()

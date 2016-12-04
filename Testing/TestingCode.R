@@ -1,4 +1,4 @@
-# authorship.R, cwjackson, 9/Nov/2016
+# authorship.R, Francis Yinbi, 04/Dec/2016
 # determining authorship via relative stopwords
 # per http://wiekvoet.blogspot.ca/2012/12/common-words-in-gathering-storm.html
 library(randomForest) # for randomForest()
@@ -107,7 +107,7 @@ dimnames(pAPC) = NULL
 
 preds <- as.data.frame(rbind(pAPC))
 names(preds) = c("APC")
-winner = apply(rbind(pAPC,pCPP,pNDC,pNPP,pPPP),1,max)
+winner = apply(rbind(pAPC),1,max)
 guess = rep("unkn",dim(preds)[2])
 guess[preds[,1]==winner] = names(preds)[1]
 #guess[preds[,2]==winner] = names(preds)[2]
@@ -115,7 +115,7 @@ guess[preds[,1]==winner] = names(preds)[1]
 #guess[preds[,4]==winner] = names(preds)[4]
 #guess[preds[,5]==winner] = names(preds)[5]
 
-guess = factor(guess,levels=names(preds)[1:5])
+guess = factor(guess,levels=names(preds)[1])
 preds$Book <- c(rep('APC-2016-part2',nrow(pAPC))
                 #rep('CPP-2016-part2',nrow(pCPP)),
                 #rep('NDC-2016-part2',nrow(pNDC)),
