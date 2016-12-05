@@ -48,7 +48,7 @@ monster = rbind(monster,countwords(bk)) }
 return(list(fractions=monster,bookchapters=bookchapters))
 }
 
-setwd("C:/Users/Francis/Desktop/Data Mining Project/GhElection_RandomForestAnalysis/2016$2012 Inter Manifesto Analysis")
+setwd("C:\Users\\Ibrahim-Abdullah\\OneDrive for Business\\JuniorYear\DataMining\\GhElection_RandomForestAnalysis\\GhElection_RandomForestAnalysis\\2016$2012 Inter Manifesto Analysis")
 # get list of books
 books = list.files(pattern="[.]txt$")
 books
