@@ -1,4 +1,4 @@
-IVOR KOBINA GREENSTREET (Presidential candidate of the Convention People's Party (CPP))
+﻿IVOR KOBINA GREENSTREET (Presidential candidate of the Convention People's Party (CPP))
 
 NANA GABBYS NKETIAH
 (Vice Presidential candidate of the Convention People's Party (CPP))
@@ -23,7 +23,8 @@ A. SOCIAL POLICIES 							IX
 
 
 CHAPTER								      PAGE
-I. 	Education Policy 						 9
+I 	Education Policy 						 9
+
 
 II.	Tertiary Institutions 						10
 
@@ -448,8 +449,14 @@ CHAPTER II
 
 
 Tertiary Institutions:
+<<<<<<< HEAD:CPP.txt
 
 
+
+=======
+
+
+>>>>>>> 94bd22ff382fb328a6d90599352a489bee4155fd:CPP-2016.txt
 The CPP will expand and improve the 
 quality of facilities at all tertiary institutions 
 under AESIP to world class levels in order to 
