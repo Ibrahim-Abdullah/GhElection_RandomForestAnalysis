@@ -1,12 +1,7 @@
 MANIFESTO OF THE CONVENTION PEOPLE'S PARTY
 PREAMBLE We of the Convention People's Party (CPP) Conscious of the history of our people right from the dehumanizing European slave trade to the brutal and exploitative colonization and contemporary neocolonialism; Aware of the historic task imposed upon us as the legitimate political heirs of Osagyefo Dr. Kwame Nkrumah, the founder of our nation and great visionary and Pan Africanist; Recognizing our people's burning desire for economic independence and wellbeing, full employment, good health delivery, shelter, education and the pursuit of happiness in a free, peaceful and just society; And determined further to create a new socio-economic order that guarantees equal opportunity for all, ensuring that the welfare of our entire people irrespective of sex, religion, is the supreme concern of all; Resolved to attain state power through legitimate means based upon democratic principles for the purpose of establishing a government that rejects all forms of ethnicism, nepotism, elitism, and dictatorship and enthrones the principles of freedom, justice, accountability and competence as the guiding directives of good government; Resolved to guarantee for our entire people full and equal access to the judicious use of our natural resources for the establishment of conditions for social and economic justice, and for the material and spiritual well-being of every citizen; Do hereby adopt and affirm the following as the Manifesto and national agenda of our Party:
 
-<<<<<<< HEAD
-CHAPTER 1
- 
-=======
 CHAPTER I 
->>>>>>> 9592aa7b3186eb2eedb9c02fe9d706320924b59e
 THE PEOPLE 1.1 The first national asset of any country is the People, who make their own history in the process of labouring to control and appropriate nature. The Convention People's Party shall therefore relate to the Ghanaian people drawn from across the length and breadth of our national territory, as productive beings and not as ethnic or racial entities. They shall constitute the resilient and ultimate base of all policies of the Party.
 1.2 National development therefore shall have as its first and fundamental objective, the harnessing of the creative capabilities of our people for the purpose of constructing a new society based on commonly-driven concerns and the philosophy of one for all, all for one.
 1.3 To this end, the Convention People's Party shall promote the cohesive development of all communities as homogeneous social units that will, through benefiting from the diversity that may characterize each segment, insist on the unity of all as a prerequisite for building a just society. In each Ghanaian community, no Ghanaian shall be designated a `stranger' or treated as such in his relationship to both socio-cultural institutions and to the means of productive labour.
@@ -81,14 +76,7 @@ iv) reorganize technical and vocational education with emphasis on the training 
 vi) Link education to productive activity.
 vii) provide universities with adequate infrastructural facilities through state and private initiatives to enable them to absorb the growing number of qualified entrants who otherwise would not have access to university education.
 (viii) intensify programmes for distance education at the university level, as well as draw on inexpensive technology to multiply the effect of teachers, and to 
-<<<<<<< HEAD
-
-CHAPTER 7
-
-Reach students who will be benefiting from education while at the same time participating productively in the economic life of the society.
-=======
  Reach students who will be benefiting from education while at the same time participating productively in the economic life of the society.
->>>>>>> 9592aa7b3186eb2eedb9c02fe9d706320924b59e
 (viii) The CPP shall, in line with the original national education policy initiated by Kwame Nkrumah, intensify mass education and literacy programmes.
 
 
@@ -120,35 +108,15 @@ ii) expand and modernize the existing modes of transportation, namely road, rail
 iii) develop, expand and maintain our extensive network of feeder roads to provide easy access to food and other economic goods producing areas;
 iv) provide an efficient and reliable modern communication network that will link up all parts of the country.
 v) aim to ensure that Ghana has a modern and efficient rail system which will give impetus to productive activity and facilitate the easy and cheap movement of people and goods.
-<<<<<<< HEAD
-CHAPTER 11
-YOUTH, SPORTS AND CULTURE
-=======
 
 CHAPTER XI
 12 YOUTH, SPORTS AND CULTURE
->>>>>>> 9592aa7b3186eb2eedb9c02fe9d706320924b59e
 i) It shall be the policy of the Convention People's Party to mold the character of the youth for nation building, and further mobilize and motivate them for national service and future leadership.
 ii) Recognizing the importance of sports in national development and in forming a vigorous international relationship, the Party shall give sports a pride of place in its national culture policy by encouraging the construction of fields and stadia in all districts, and above all, help to promote a sporting goods industry that will provide a major impetus to the development of sports.
 iii) The nurturing of a viable and unifying national culture that links up the best in the various ethnic cultures into a progressive and dynamic national culture, shall be the major concern of a Convention People's Party administration.
 12.1. The Convention People's Party, conscious of the fact that women continue to be widely discriminated against both in the home and society at large, will promote the elimination of all acts of gender discrimination so that women can be fully involved in social, political and economic life.
 12.2 By recognizing the special status of women arising out of years of discrimination, the CPP will support affirmative action for women in all relevant areas of national development.
 
-<<<<<<< HEAD
-CHAPTER 12 
-CHIEFTAINCY
-The CPP shall adhere to the provisions of the Constitution pertaining to the institution of chieftaincy by ensuring that it becomes a vital part of the new democratic culture of the country as well as play its part in national development. A CPP government will encourage the review of the outmoded chieftaincy practices which inhibit democratic expression.
-
-CHAPTER 13 
-CIVIL AND PUBLIC SERVICE 14.1 The objectives of the Convention People's Party will be the development of an efficient dedicated public service that is motivated by a high sense of patriotism and a deep sense of duty.
-
-CHAPTER 14 
- JUDICIARY 14.2 And in pursuance of the decentralization concept, promote the district assembly programme as central to the creation of a devoted national and local government administration throughout the country in the cause of accelerating development, selfsufficiency and enhancing the standard of living of all communities through efficient administration.
-On all questions pertaining to the Judiciary and the administration of justice, the Party shall adhere scrupulously to the provisions of the Constitution. Conscious of the fact that justice delayed is justice denied, the Convention Party government shall provide all facilities to improve the efficiency and good administration of the judicial service thereby enhancing the efficient and expeditious delivery of justice. In pursuing these ends, the Convention People's Party shall initiate action for the review of all laws which inhibit the freedoms enshrined in the constitution and take steps to ensure that all existing laws conform to the spirit and letter of the Constitution.
-
-CHAPTER 15
-
-=======
 CHAPTER XII 
 CHIEFTAINCY
 The CPP shall adhere to the provisions of the Constitution pertaining to the institution of chieftaincy by ensuring that it becomes a vital part of the new democratic culture of the country as well as play its part in national development. A CPP government will encourage the review of the outmoded chieftaincy practices which inhibit democratic expression.
@@ -159,7 +127,6 @@ CIVIL AND PUBLIC SERVICE 14.1 The objectives of the Convention People's Party wi
 On all questions pertaining to the Judiciary and the administration of justice, the Party shall adhere scrupulously to the provisions of the Constitution. Conscious of the fact that justice delayed is justice denied, the Convention Party government shall provide all facilities to improve the efficiency and good administration of the judicial service thereby enhancing the efficient and expeditious delivery of justice. In pursuing these ends, the Convention People's Party shall initiate action for the review of all laws which inhibit the freedoms enshrined in the constitution and take steps to ensure that all existing laws conform to the spirit and letter of the Constitution.
 
 CHAPTER XIV 
->>>>>>> 9592aa7b3186eb2eedb9c02fe9d706320924b59e
 DEFENCE AND SECURITY 16.1. The defence policy of the CPP government shall be based on the fundamental role of the Armed Forces in national defence and the maintenance of law and order which are necessary conditions for sustained growth and development. In this connection, the CP shall pursue a policy that would ensure respect for the Constitution of Ghana at all times, as well as facilitate the fulfillment of the envisaged role of the Armed Forces.
 16.2 The CPP recognizes the woefully under-equipped and unmotivated Ghana Police Force and shall seek to address these inadequacies in order to make it capable of effectively carrying out its assigned duties relating to the maintenance of law and order and the provision of security.
 16.3 Consequently, a government of the CPP shall strive to ensure:
@@ -169,11 +136,7 @@ iii) that promotion is based solely on merit;
 v) take appropriate measures to establish the awareness that national defence and security are not the duty of the uniformed services only but the concern of all adult citizens.
 16.4 The Prison Service: A CPP government will strive to provide the necessary resources and attention to the Ghana Prison Service, and to ensure that the prison system is humane. In the meantime, all efforts will be made to protect the social rights of the Ghanaian people and minimize the incidents where lawful citizens are pushed into criminal behaviour because they are denied a legitimate means of livelihood.
  
-<<<<<<< HEAD
-CHAPTER 16 
-=======
 CHAPTER XV 
->>>>>>> 9592aa7b3186eb2eedb9c02fe9d706320924b59e
 FOREIGN RELATIONS
 In accordance with the provisions of the Constitution and the Pan Africanist philosophy of the Party's forebears, the Convention Party shall:
 i) pursue a foreign policy based on mutual co-existence of states through bilateral and multi-lateral agreements;
@@ -182,12 +145,6 @@ iii) vigorously promote all programmes designed to achieve African unity and int
 iv) maintain and strengthen Ghana's membership of the OAU, ECOWAS, UNO, NAM and the ACP among others; and the developing world for the promotion of South/South Cooperation as a major force in the fight against imperialism neocolonialism, neo-fascism ,racism and all forms of oppression, in solidarity with oppressed peoples all over the world;
 vii) steadfastly uphold and enhance the spirit of Pan Africanism which was kindled by Osagyefo Dr. Kwame Nkrumah, with the ultimate aim of unifying all peoples of African descent and promoting the concept of African Personality among the comity of Nations.
 viii) actively promote co-operation with all democratically established governments for the mutual benefit of the peoples and further enhance the prospects for world peace, social justice, economic well-being, the rule of law and the guarantee of fundamental human rights and the pursuit of happiness.
-<<<<<<< HEAD
-
-CHAPTER 17
-
-=======
->>>>>>> 9592aa7b3186eb2eedb9c02fe9d706320924b59e
 The Convention People's Party, reborn at a critical juncture of our nation's history, represents an important historical segment of the progressive nationalist forces. We are keenly aware of our responsibilities as a Party. Our choices are clear. We are opposed to elitism, and intellectual arrogance. We oppose the politics that seeks to marginalize the broad masses of the people, and oppress them. We are opposed to privilege as the determinant factor in the national decision making process.
 Above all, we are opposed to imperialism, racism, neocolonialism and exploitation. We stand for the brotherhood of man, for freedom, justice and accountability.
 We stand for peace and national stability. We stand for national unity and development.
